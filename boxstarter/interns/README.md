@@ -34,6 +34,9 @@ To run a recipe script, click a link in the table below from your target machine
 
 |Click link to run  |Description  |
 |---------|---------|
+|<a href='http://boxstarter.org/package/url?https://raw.githubusercontent.com/youngaj/UsefulScripts/Boxstarter/boxstarter/interns/intern_standard.ps1'>Intern Standard</a>     | Python & IDLE, NotePad++, Adobe Reader, Visual Studio Code IDE, Slack, common printer maps |
+|<a href='http://boxstarter.org/package/url?https://raw.githubusercontent.com/youngaj/UsefulScripts/Boxstarter/boxstarter/interns/intern_dev.ps1'>Intern Dev</a>     | Node.js, MongoDB, JDK, Git, TortoiseGit, Eclipse IDE, NetBeans IDE, Arduino IDE |
+|<a href='http://boxstarter.org/package/url?https://raw.githubusercontent.com/youngaj/UsefulScripts/Boxstarter/boxstarter/interns/intern_matlab.ps1'>Intern MATLAB</a>     | MATLAB (on a number of machines, but requires NAMS request and may need to be handled case-by-case) |
 |<a href='http://boxstarter.org/package/url?https://raw.githubusercontent.com/Microsoft/windows-dev-box-setup-scripts/master/dev_app.ps1'>Full Desktop App</a>     | Windows Desktop App Development (Visual Studio, Windows SDK, C++, UWP, .NET (WPF and Winforms)) |
 |<a href='http://boxstarter.org/package/url?https://raw.githubusercontent.com/Microsoft/windows-dev-box-setup-scripts/master/dev_app_desktop_uwp.ps1'>UWP Desktop App</a>     | Windows Desktop App Development (Visual Studio, Windows SDK, UWP) |
 |<a href='http://boxstarter.org/package/url?https://raw.githubusercontent.com/Microsoft/windows-dev-box-setup-scripts/master/dev_app_desktop_.NET.ps1'>.NET Desktop App</a>     | Windows Desktop App Development (Visual Studio, Windows SDK, .NET (WPF and Winforms)) |
