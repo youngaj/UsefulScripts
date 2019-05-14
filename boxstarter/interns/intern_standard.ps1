@@ -26,6 +26,7 @@ executeScript "FileExplorerSettings.ps1";
 executeScript "CommonDevTools.ps1";
 executeScript "Docker.ps1";
 executeScript "Browsers.ps1";
+executeScript "Printers.ps1";
 
 #--- Tools ---
 code --install-extension msjsdiag.debugger-for-chrome
