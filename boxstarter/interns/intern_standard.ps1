@@ -24,9 +24,9 @@ function executeScript {
 #--- Setting up Windows ---
 executeScript "FileExplorerSettings.ps1";
 executeScript "CommonDevTools.ps1";
-executeScript "Docker.ps1";
 executeScript "Browsers.ps1";
 executeScript "Printers.ps1";
+executeScript "NASA_Standard.ps1"
 
 #--- Tools ---
 code --install-extension msjsdiag.debugger-for-chrome
@@ -34,11 +34,6 @@ code --install-extension msjsdiag.debugger-for-edge
 
 #--- Microsoft WebDriver ---
 choco install -y microsoftwebdriver
-
-#---- NASA Intern standard profile
-choco install -y notepadplusplus
-choco install -y adobereader
-choco install -y slack
 
 Enable-UAC
 Enable-MicrosoftUpdate

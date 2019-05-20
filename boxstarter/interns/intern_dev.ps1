@@ -26,6 +26,8 @@ executeScript "FileExplorerSettings.ps1";
 executeScript "CommonDevTools.ps1";
 executeScript "Docker.ps1";
 executeScript "Browsers.ps1";
+executeScript "NASA_Standard.ps1";
+executeScript "NASA_Dev.ps1";
 
 #--- Tools ---
 code --install-extension msjsdiag.debugger-for-chrome
@@ -33,14 +35,6 @@ code --install-extension msjsdiag.debugger-for-edge
 
 #--- Microsoft WebDriver ---
 choco install -y microsoftwebdriver
-
-#-- NASA Interns Dev profile
-choco install -y nodejs-lts # Node.js LTS, Recommended for most users
-choco install -y mongodb
-choco install -y tortoisegit
-choco install -y eclipse
-choco install -y netbeans
-choco install -y arduino
 
 Enable-UAC
 Enable-MicrosoftUpdate
