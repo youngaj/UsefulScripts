@@ -28,7 +28,7 @@ executeScript "Docker.ps1";
 executeScript "Browsers.ps1";
 executeScript "NASA_Standard.ps1";
 executeScript "NASA_Dev.ps1";
-executeScript "Printers.ps1";
+# executeScript "Printers.ps1";
 
 #--- Tools ---
 code --install-extension msjsdiag.debugger-for-chrome
